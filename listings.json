@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T17:03+00:00",
+ "updated": "2026-10-03T17:20+00:00",
  "listings": [
   {
    "address": "1 Crabapple Ct, 63132",
@@ -15,7 +15,7 @@
    "source": "Redfin",
    "sqft": 5035,
    "status": "active",
-   "stories": "2 story",
+   "stories": "2 story, main-floor primary",
    "url": "https://www.redfin.com/MO/Saint-Louis/1-Crabapple-Ct-63132/home/93462114",
    "id": "1-crabapple-ct"
   },
@@ -41,6 +41,7 @@
    "bucket": "movein",
    "elementary": "Conway",
    "firstSeen": "2026-10-02",
+   "hidden": "2 story, all bedrooms upstairs (Redfin, 10/3)",
    "lat": 38.6327332,
    "lng": -90.4023395,
    "lot": 0.8,
@@ -99,6 +100,7 @@
    "bucket": "movein",
    "elementary": "Reed",
    "firstSeen": "2026-10-03",
+   "hidden": "2 story, all bedrooms upstairs (Redfin, 10/3)",
    "lat": 38.6342457,
    "lng": -90.3524233,
    "lot": 0.6,
@@ -129,7 +131,7 @@
    "source": "Redfin",
    "sqft": 4743,
    "status": "active",
-   "stories": "2 story",
+   "stories": "2 story, main-floor primary",
    "url": "https://www.redfin.com/MO/Saint-Louis/4-Colonial-Hills-Pkwy-63141/home/93323636",
    "yearBuilt": 2006,
    "id": "4-colonial-hills-pkwy"
@@ -141,6 +143,7 @@
    "bucket": "movein",
    "elementary": "Reed",
    "firstSeen": "2026-10-02",
+   "hidden": "2 story, all bedrooms upstairs (Redfin, 10/3)",
    "lat": 38.6361952,
    "lng": -90.3532726,
    "lot": 0.82,
@@ -162,6 +165,7 @@
    "bucket": "movein",
    "elementary": "Reed",
    "firstSeen": "2026-10-02",
+   "hidden": "2 story, all bedrooms upstairs (Redfin, 10/3)",
    "lat": 38.6562094,
    "lng": -90.3703851,
    "lot": 0.36,
@@ -191,6 +195,7 @@
    "source": "Redfin",
    "sqft": 3000,
    "status": "active",
+   "stories": "1.5 story (likely)",
    "unverified": "Stories unverified",
    "url": "https://www.redfin.com/MO/Saint-Louis/817-Larkin-Ave-63141/home/93464127",
    "id": "817-larkin-ave"

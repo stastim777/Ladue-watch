@@ -88,13 +88,13 @@ select{font:13px var(--body);padding:7px 8px;border:1px solid var(--line);border
     <div class="stat"><b id="s-active">–</b><small>Active</small></div>
     <div class="stat"><b id="s-new">–</b><small>New in 7 days</small></div>
     <div class="stat"><b id="s-cuts">–</b><small>Price cuts</small></div>
-    <div class="stat"><b id="s-off">–</b><small>Pending / sold</small></div>
+    <div class="stat"><b id="s-off">–</b><small>Pending</small></div>
   </section>
 
   <div class="bar">
     <div class="chips" id="chips" role="group" aria-label="Filter by category"></div>
     <div class="chips">
-      <label class="chip" style="display:flex;gap:6px;align-items:center"><input type="checkbox" id="hideOff"> Hide pending/sold</label>
+      <label class="chip" style="display:flex;gap:6px;align-items:center"><input type="checkbox" id="hideOff"> Hide pending</label>
       <select id="sort" aria-label="Sort">
         <option value="new">Newest first</option>
         <option value="price-asc">Price, low to high</option>
@@ -159,15 +159,19 @@ L.marker([LADUE_HS.lat, LADUE_HS.lng], {
   icon: L.divIcon({className: "", html: '<div style="width:14px;height:14px;background:#1b2620;border:2px solid #fff;border-radius:2px"></div>', iconSize: [14, 14]})
 }).addTo(map).bindTooltip("Ladue Horton Watkins HS");
 
-// Round pin colored by category; hollow when pending/sold
-function pinIcon(r) {
-  const c = color(r.bucket), fill = isOff(r) ? "#ffffff" : c;
-  return L.divIcon({className: "", iconSize: [18, 18],
-    html: `<div style="width:18px;height:18px;border-radius:50%;background:${fill};border:3px solid ${c};box-shadow:0 1px 3px rgba(0,0,0,.4)"></div>`});
+// Bright map colors by category (fixed, so pins stay vivid on the map in either theme)
+const PIN = {movein: "#16c75a", land: "#f2a900", asis: "#b05cff", distressed: "#ff3b30"};
+// Numbered round pin; the number matches the card's number. Pending pins are faded.
+function pinIcon(r, n) {
+  const c = PIN[r.bucket] || PIN.movein, faded = isOff(r) ? "opacity:.6;" : "";
+  return L.divIcon({className: "", iconSize: [28, 28], iconAnchor: [14, 14], popupAnchor: [0, -14],
+    html: `<div style="${faded}width:28px;height:28px;border-radius:50%;background:${c};border:2.5px solid #fff;` +
+          `box-shadow:0 1px 4px rgba(0,0,0,.55);color:#fff;font:700 13px/23px system-ui,sans-serif;text-align:center;` +
+          `text-shadow:0 1px 1px rgba(0,0,0,.45)">${n}</div>`});
 }
 
 // ---- Rendering --------------------------------------------------------------
-function card(r) {
+function card(r, n) {
   const off = isOff(r);
   // Photo (loaded straight from the listing site) or a placeholder
   const ph = el("div", {class: "photo"});
@@ -176,8 +180,10 @@ function card(r) {
     img.onerror = () => { img.remove(); ph.prepend("No photo available"); };
     ph.append(img);
   } else ph.append("No photo yet");
-  const tag = el("span", {class: "tag"}, BUCKETS[r.bucket] || "Listing");
-  tag.style.background = color(r.bucket);
+  // Number badge (matches the map pin) + category tag, both in the pin's color
+  const pc = PIN[r.bucket] || PIN.movein;
+  const tag = el("span", {class: "tag"}, n + " · " + (BUCKETS[r.bucket] || "Listing"));
+  tag.style.background = pc;
   ph.append(tag);
 
   // Price, with the previous price struck through on a cut
@@ -192,12 +198,18 @@ function card(r) {
   if (r.lat && r.lng) pills.append(el("span", {class: "pill"}, miles(r, LADUE_HS).toFixed(1) + " mi to LHWHS"));
   if (r.unverified) pills.append(el("span", {class: "pill warn"}, r.unverified));
 
+  // Stories: short number for the specs grid; any qualifier ("main-floor primary", "likely") becomes a pill
+  const st = String(r.stories || "");
+  const stNum = (st.match(/^[\d.]+/) || [""])[0];
+  const stNote = st.replace(/^[\d.]+\s*story\s*/i, "").replace(/^[,(]\s*|\)$/g, "").trim();
+  if (stNote) pills.append(el("span", {class: "pill warn"}, stNum + " story: " + stNote));
+
   // Specs row; lots show acreage only
   const land = r.bucket === "land" && !r.beds;
   const specs = el("dl", {class: "specs"});
   [["Beds", land ? "Lot" : r.beds], ["Baths", land ? "—" : r.baths],
    ["Sq ft", land ? "—" : (typeof r.sqft === "number" ? r.sqft.toLocaleString() : null)],
-   ["Stories", land ? "—" : (r.stories || "").replace(" story", "")],
+   ["Stories", land ? "—" : (stNum ? stNum + (stNote ? "*" : "") : null)],
    ["Lot ac", typeof r.lot === "number" ? r.lot.toFixed(2) : null]
   ].forEach(([k, v]) => specs.append(el("div", {}, el("dt", {}, k), el("dd", {}, (v === null || v === undefined || v === "") ? "—" : String(v)))));
 
@@ -251,16 +263,17 @@ function render() {
 
   // Cards
   const list = document.getElementById("list");
-  list.replaceChildren(...(view.length ? view.map(card) : [el("div", {class: "empty"}, "No listings match this filter.")]));
+  // Number cards 1..N in display order; the same number goes on each map pin
+  list.replaceChildren(...(view.length ? view.map((r, i) => card(r, i + 1)) : [el("div", {class: "empty"}, "No listings match this filter.")]));
 
   // Pins: rebuild for the visible set and fit the map to them
   Object.values(markers).forEach(m => m.remove());
   for (const k in markers) delete markers[k];
   const pts = [];
-  view.forEach(r => {
+  view.forEach((r, i) => {
     if (typeof r.lat !== "number" || typeof r.lng !== "number") return;
-    const m = L.marker([r.lat, r.lng], {icon: pinIcon(r), title: r.address}).addTo(map);
-    m.bindPopup(`<b>${r.address}</b><br>${money(r.price)}${r.status && r.status !== "active" ? " · " + r.status : ""}`);
+    const m = L.marker([r.lat, r.lng], {icon: pinIcon(r, i + 1), title: r.address}).addTo(map);
+    m.bindPopup(`<b>${i + 1}. ${r.address}</b><br>${money(r.price)}${r.status && r.status !== "active" ? " · " + r.status : ""}`);
     m.on("click", () => highlight(r.id));
     markers[r.id] = m; pts.push([r.lat, r.lng]);
   });
@@ -285,7 +298,8 @@ hideBox.addEventListener("change", () => { hideOff = hideBox.checked; savePrefs(
 fetch("listings.json?t=" + Date.now())
   .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
   .then(data => {
-    rows = Array.isArray(data.listings) ? data.listings : [];
+    // Never show sold listings or ones excluded by the filter rules (e.g. true 2-story homes)
+    rows = (Array.isArray(data.listings) ? data.listings : []).filter(r => r.status !== "sold" && !r.hidden);
     const t = Date.parse(data.updated);
     document.getElementById("updated").textContent = isNaN(t) ? "" : "Updated " + new Date(t).toLocaleString([], {dateStyle: "medium", timeStyle: "short"});
     render();
