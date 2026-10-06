@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T21:17Z",
+  "updated": "2026-10-06T14:55Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -246,6 +246,21 @@
       "unverified": "Stories unverified",
       "url": "https://www.redfin.com/MO/Saint-Louis/817-Larkin-Ave-63141/home/93464127",
       "id": "817-larkin-ave"
+    },
+    {
+      "address": "821 N Spoede Rd, Saint Louis, MO 63141",
+      "baths": 5,
+      "beds": 5,
+      "bucket": "movein",
+      "firstSeen": "2026-10-06",
+      "note": "Coming Soon per Zillow alert 10/6 (RE/MAX Results); open houses Fri 4-6pm and 10/11 1-3pm. Redfin/Realtor.com blocked, so status, lot, stories unverified.",
+      "price": 1449000,
+      "source": "Zillow alert",
+      "sqft": 5432,
+      "status": "active",
+      "unverified": "coming soon (single source); lot size, stories, Ladue district unverified",
+      "url": "https://www.zillow.com/homedetails/821-N-Spoede-Rd-Saint-Louis-MO-63141/2741927_zpid/",
+      "id": "821-n-spoede-rd"
     },
     {
       "address": "832 Larkin Ave, 63141",
