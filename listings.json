@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T19:01Z",
+ "updated": "2026-10-08T19:27Z",
  "listings": [
   {
    "address": "1 Crabapple Ct, 63132",
@@ -40,6 +40,28 @@
    "url": "https://www.redfin.com/MO/Saint-Louis/10147-Fieldcrest-Ln-63124/home/93491186",
    "yearBuilt": 2018,
    "id": "10147-fieldcrest-ln"
+  },
+  {
+   "address": "13 Deer Creek Woods, 63124",
+   "baths": 4.5,
+   "beds": 4,
+   "bucket": "movein",
+   "elementary": "Reed",
+   "firstSeen": "2026-10-08",
+   "hidden": "2 story, all bedrooms upstairs (Redfin, 10/8)",
+   "lat": 38.6249318,
+   "lng": -90.3647986,
+   "lot": 0.35,
+   "note": "Listed 10/7, MLS 26059228; all-brick, HOA $29/mo. Status: active per Redfin + 4salestlouis, 10/8 (Realtor.com 429).",
+   "photo": "https://ssl.cdn-redfin.com/photo/156/bcsphoto/228/genBcs.26059228_0.jpg",
+   "price": 1195000,
+   "source": "Zillow alert recommendation + Redfin",
+   "sqft": 4300,
+   "status": "active",
+   "stories": "2 story",
+   "url": "https://www.redfin.com/MO/Saint-Louis/13-Deer-Creek-Woods-63124/home/93490145",
+   "yearBuilt": 1956,
+   "id": "13-deer-creek-woods"
   },
   {
    "address": "17 Bon Price Ter, 63132",
