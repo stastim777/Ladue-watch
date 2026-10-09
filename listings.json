@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T19:57Z",
+ "updated": "2026-10-09T15:00Z",
  "listings": [
   {
    "address": "1 Crabapple Ct, 63132",
@@ -81,6 +81,27 @@
    "url": "https://www.redfin.com/MO/Saint-Louis/11-High-Acres-Dr-63132/home/93461426",
    "yearBuilt": 1954,
    "id": "11-high-acres-dr"
+  },
+  {
+   "address": "11 Rolling Rock Ln, 63124",
+   "baths": 5,
+   "beds": 4,
+   "bucket": "movein",
+   "elementary": "Reed",
+   "firstSeen": "2026-10-09",
+   "lat": 38.6291571,
+   "lng": -90.3747987,
+   "lot": 1.8,
+   "note": "Coming Soon (MLS 26055068); one-owner architect-built brick ranch in Trails End on a level 1.8 ac, all 4 beds on main each with en suite, 3-car garage, no HOA; dated, listing says it awaits updating. Status: coming soon per Redfin + estately, 10/9 (Realtor.com 429).",
+   "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/068/26055068_0.jpg",
+   "price": 1399900,
+   "source": "Redfin",
+   "sqft": 5797,
+   "status": "active",
+   "stories": "1 story",
+   "url": "https://www.redfin.com/MO/Saint-Louis/11-Rolling-Rock-Ln-63124/home/62755322",
+   "yearBuilt": 1963,
+   "id": "11-rolling-rock-ln"
   },
   {
    "address": "13 Deer Creek Woods, 63124",
