@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T19:57Z",
+  "updated": "2026-10-16T14:59Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -195,7 +195,8 @@
       "lot": 0.8,
       "note": "Listed 10/1; pool, hot tub, sauna, renovated kitchen; 0.5 mi to Ladue HS. Status: active per Zillow alert 10/1 + Redfin 10/2 (Realtor.com blocked).",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/369/26061369_2.jpg",
-      "price": 1200000,
+      "prevPrice": 1200000,
+      "price": 1175000,
       "source": "Zillow alert / Redfin",
       "sqft": 3573,
       "status": "active",
