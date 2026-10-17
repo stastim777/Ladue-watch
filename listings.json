@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T14:59Z",
+  "updated": "2026-10-17T14:58Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -18,6 +18,28 @@
       "stories": "2 story, main-floor primary",
       "url": "https://www.redfin.com/MO/Saint-Louis/1-Crabapple-Ct-63132/home/93462114",
       "id": "1-crabapple-ct"
+    },
+    {
+      "address": "10 Vouga Ln, 63131",
+      "baths": 3.5,
+      "beds": 3,
+      "bucket": "movein",
+      "elementary": "Spoede",
+      "firstSeen": "2026-10-17",
+      "lat": 38.6438413,
+      "lng": -90.4241356,
+      "lot": 1.04,
+      "note": "MLS 26017771 (Frontenac, Vouga Estates, $25/mo HOA); listed 4/14 at $1.299M, two contracts fell through (Apr, Jun), cut to $1.249M 8/2, relisted 10/16. 2-car garage, minimal flood risk. Status: active per Redfin + 4salestlouis, 10/17 (Realtor.com 429).",
+      "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/771/26017771_2.jpg",
+      "price": 1249000,
+      "source": "Redfin",
+      "sqft": 3799,
+      "status": "active",
+      "stories": "1 story ranch (MARIS); Redfin lists 2 levels, 1 main-floor bedroom",
+      "unverified": "stories/layout",
+      "url": "https://www.redfin.com/MO/Saint-Louis/10-Vouga-Ln-63131/home/93481093",
+      "yearBuilt": 1959,
+      "id": "10-vouga-ln"
     },
     {
       "address": "10147 Fieldcrest Ln, 63124",
