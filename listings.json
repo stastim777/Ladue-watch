@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T14:58Z",
+  "updated": "2026-10-17T19:57Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -145,6 +145,46 @@
       "url": "https://www.redfin.com/MO/Saint-Louis/1136-Ridgelynn-Dr-63124/home/93480151",
       "yearBuilt": 1958,
       "id": "1136-ridgelynn-dr"
+    },
+    {
+      "address": "12305 Wildlife Trl, Creve Coeur, 63141",
+      "baths": 5.5,
+      "beds": 5,
+      "bucket": "movein",
+      "elementary": "Reed",
+      "firstSeen": "2026-10-17",
+      "hidden": "2 story, primary + 4 beds and laundry upstairs, 1 guest bed on main (Redfin, 10/17)",
+      "note": "Fischer Homes new build (Pearson plan), Deer Hollow, $183/mo HOA; on/off market since 5/28, relisted 10/15 as MLS 26066227. Status: active per Redfin + 4salestlouis + estately, 10/17 (Realtor.com 429).",
+      "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/227/26066227_0.jpg",
+      "price": 1489900,
+      "source": "Redfin",
+      "sqft": 4535,
+      "status": "active",
+      "stories": "2 story",
+      "unverified": "lot size unverified",
+      "url": "https://www.redfin.com/MO/Creve-Coeur/12305-Wildlife-TRL-63141/home/202054111",
+      "yearBuilt": 2026,
+      "id": "12305-wildlife-trl"
+    },
+    {
+      "address": "12315 Wildlife Trl, Creve Coeur, 63141",
+      "baths": 3.5,
+      "beds": 4,
+      "bucket": "movein",
+      "elementary": "Reed",
+      "firstSeen": "2026-10-17",
+      "hidden": "2 story, all 4 bedrooms upstairs (Redfin, 10/17)",
+      "note": "Fischer Homes new build (Rhodes plan), Deer Hollow, $183/mo HOA; relisted 10/15 as MLS 26066223. Status: active per Redfin + 4salestlouis + estately, 10/17 (Realtor.com 429).",
+      "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/223/26066223_0.jpg",
+      "price": 1398900,
+      "source": "Redfin",
+      "sqft": 3598,
+      "status": "active",
+      "stories": "2 story",
+      "unverified": "lot size unverified",
+      "url": "https://www.redfin.com/MO/Creve-Coeur/12315-Wildlife-TRL-63141/home/202054114",
+      "yearBuilt": 2026,
+      "id": "12315-wildlife-trl"
     },
     {
       "address": "13 Deer Creek Woods, 63124",
