@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T14:58Z",
+  "updated": "2026-10-20T19:57Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -188,6 +188,27 @@
       "url": "https://www.redfin.com/MO/Saint-Louis/1136-Ridgelynn-Dr-63124/home/93480151",
       "yearBuilt": 1958,
       "id": "1136-ridgelynn-dr"
+    },
+    {
+      "address": "1156 Hilltop Dr, Olivette, MO 63132",
+      "baths": 1,
+      "beds": 2,
+      "bucket": "land",
+      "elementary": "Reed",
+      "firstSeen": "2026-10-20",
+      "lat": 38.6762372,
+      "lng": -90.3641514,
+      "lot": 0.15,
+      "note": "Coming Soon 10/20, MLS 26067204 (Magnolia Real Estate); 1946 2bd/1ba ranch pitched to investors/renovators, unfinished basement; teardown/rehab candidate on 0.15 ac. Status: coming soon per RedKey alert 10/20 + Redfin + estately, 10/20 (Realtor.com 429).",
+      "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/204/26067204_0.jpg",
+      "price": 175000,
+      "source": "RedKey alert (Green & Bank) + Redfin",
+      "sqft": 1162,
+      "status": "active",
+      "stories": "1 story",
+      "url": "https://www.redfin.com/MO/Saint-Louis/1156-Hilltop-Dr-63132/home/93449142",
+      "yearBuilt": 1946,
+      "id": "1156-hilltop-dr"
     },
     {
       "address": "12305 Wildlife Trl, Creve Coeur, 63141",
