@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T19:58Z",
+  "updated": "2026-10-22T15:00Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -400,12 +400,12 @@
       "lat": 38.6219804,
       "lng": -90.4302495,
       "lot": 0.23,
-      "note": "Coming Soon (MLS 26057967, Gladys Manion); 1954 Vincil Hunter mid-century ranch in Crystal Lake Park, listing pitches renovate or tear down. Status: coming soon per Redfin + 4salestlouis, 10/8 (Realtor.com 429).",
+      "note": "Coming Soon (MLS 26057967, Gladys Manion); 1954 Vincil Hunter mid-century ranch in Crystal Lake Park, listing pitches renovate or tear down. Status: pending per 4salestlouis + BHHS Select (School District: Ladue), 10/22 (Realtor.com 429).",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/967/26057967_0.jpg",
       "price": 350000,
       "source": "Redfin",
       "sqft": 1425,
-      "status": "active",
+      "status": "pending",
       "stories": "1 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/2217-Divot-Dr-63131/home/93490769",
       "yearBuilt": 1954,
