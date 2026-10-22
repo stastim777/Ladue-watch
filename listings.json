@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T15:00Z",
+  "updated": "2026-10-22T19:58Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -575,13 +575,13 @@
       "lat": 38.6562094,
       "lng": -90.3703851,
       "lot": 0.36,
-      "note": "Three price cuts since July 22; new roof 2025, recent sewer work. Likely motivated seller.",
+      "note": "Three price cuts since July 22, then relisted as MLS 26061926 at $1.275M; new roof 2025, recent sewer work. Status: pending per BHHS Select + 4salestlouis, 10/22 (Redfin detail blocked).",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/693/26041693_0.jpg",
-      "prevPrice": 1500000,
-      "price": 1350000,
+      "prevPrice": 1350000,
+      "price": 1275000,
       "source": "Redfin",
       "sqft": 4144,
-      "status": "active",
+      "status": "pending",
       "stories": "2 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/8-Granada-Way-63124/home/93471787",
       "yearBuilt": 1940,
