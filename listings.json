@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T19:58Z",
+  "updated": "2026-10-23T20:00Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -719,8 +719,9 @@
       "lat": 38.6817281,
       "lng": -90.3873984,
       "lot": 0.46,
-      "note": "Teardown candidate: 1961 ranch on 0.46 ac in Olivette (Indian Meadows), listed 10/8 via My State MLS (Your Home Sold Guaranteed Realty), Zestimate ~$314K. Status: for sale per Zillow alert + Zillow page, 10/8; Redfin still shows last sale only (Realtor.com blocked).",
-      "price": 375000,
+      "note": "Teardown candidate: 1961 ranch on 0.46 ac in Olivette (Indian Meadows), listed 10/8 via My State MLS (Your Home Sold Guaranteed Realty), cut $25.1K to $349,900 on 10/23. Status: for sale per Zillow price-cut alert 10/23 (Zillow page 403, Realtor.com 429; not on Redfin/MARIS).",
+      "prevPrice": 375000,
+      "price": 349900,
       "source": "Zillow alert",
       "sqft": 1311,
       "status": "active",
