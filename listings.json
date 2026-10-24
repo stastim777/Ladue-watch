@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:00Z",
+  "updated": "2026-10-24T14:57Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -381,7 +381,8 @@
       "lot": 0.35,
       "note": "New construction; likely a small villa lot.",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/775/26051775_1.jpg",
-      "price": 1450000,
+      "prevPrice": 1450000,
+      "price": 1399000,
       "source": "Redfin",
       "sqft": 3309,
       "status": "active",
