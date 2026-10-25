@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T14:57Z",
+  "updated": "2026-10-25T14:58Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -178,12 +178,12 @@
       "lat": 38.6387333,
       "lng": -90.4029836,
       "lot": 0.69,
-      "note": "Coming Soon 10/15, MLS 26065869 (John Jackson Neighborhood RE); Briarwood off Warson Rd, renovated 1958 ranch, pool, expanded kitchen, walk to Ladue shops. Status: coming soon per RedKey + Zillow alerts 10/15 + Redfin + 4salestlouis (School District: Ladue), 10/15 (Realtor.com 429).",
+      "note": "Coming Soon 10/15, MLS 26065869 (John Jackson Neighborhood RE); Briarwood off Warson Rd, renovated 1958 ranch, pool, expanded kitchen, walk to Ladue shops. Went pending ~10/24. Status: pending per Zillow alert 10/24 + BHHS Select + 4salestlouis, 10/25 (Realtor.com 429).",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/869/26065869_0.jpg",
       "price": 1350000,
       "source": "RedKey + Zillow alerts",
       "sqft": 5250,
-      "status": "active",
+      "status": "pending",
       "stories": "1 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/1136-Ridgelynn-Dr-63124/home/93480151",
       "yearBuilt": 1958,
