@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T15:01Z",
+  "updated": "2026-10-26T19:58Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -72,7 +72,7 @@
       "lat": 38.6348082,
       "lng": -90.400628,
       "lot": 0.57,
-      "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Prior listing ($1.7M\u2192$1.6M) canceled 8/31; relisted Coming Soon 10/2 at $1.5M (MLS 26063599), active 10/7, pending 10/9. Status: pending per Redfin + 4salestlouis, 10/10 (Realtor.com 429).",
+      "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Prior listing ($1.7M→$1.6M) canceled 8/31; relisted Coming Soon 10/2 at $1.5M (MLS 26063599), active 10/7, pending 10/9. Status: pending per Redfin + 4salestlouis, 10/10 (Realtor.com 429).",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/329/26035329_0.jpg",
       "prevPrice": 1600000,
       "price": 1500000,
@@ -190,6 +190,27 @@
       "id": "1136-ridgelynn-dr"
     },
     {
+      "address": "1152 Indian Meadows Dr, 63132",
+      "baths": 3,
+      "beds": 3,
+      "bucket": "land",
+      "elementary": "Old Bonhomme",
+      "firstSeen": "2026-10-26",
+      "lat": 38.6763748,
+      "lng": -90.3842343,
+      "lot": 0.41,
+      "note": "MLS 26043329, 67 DOM; 1957 brick ranch on 0.41-ac corner lot in Olivette (Indian Meadows 1), hardwoods, partly finished LL, $75/yr subdivision fee; priced near land value. Status: pending per Redfin + 4salestlouis + elsrealestategroup.com, 10/26 (Realtor.com not checked).",
+      "photo": "https://ssl.cdn-redfin.com/photo/156/islphoto/329/genIslnoResize.26043329_1.webp",
+      "price": 380000,
+      "source": "Redfin (pending filter)",
+      "sqft": 1458,
+      "status": "pending",
+      "stories": "1 story",
+      "url": "https://www.redfin.com/MO/Saint-Louis/1152-Indian-Meadows-Dr-63132/home/62723287",
+      "yearBuilt": 1957,
+      "id": "1152-indian-meadows-dr"
+    },
+    {
       "address": "1156 Hilltop Dr, Olivette, MO 63132",
       "baths": 1,
       "beds": 2,
@@ -209,6 +230,27 @@
       "url": "https://www.redfin.com/MO/Saint-Louis/1156-Hilltop-Dr-63132/home/93449142",
       "yearBuilt": 1946,
       "id": "1156-hilltop-dr"
+    },
+    {
+      "address": "12 Morwood Ln, 63141",
+      "baths": 3,
+      "beds": 3,
+      "bucket": "land",
+      "elementary": "Spoede",
+      "firstSeen": "2026-10-26",
+      "lat": 38.6655384,
+      "lng": -90.4272661,
+      "lot": 0.35,
+      "note": "MLS 25030364 (2025 listing), 536 DOM; 1958 ranch on 0.35 ac in Morwood Hills (Creve Coeur), unfinished basement, cash/conventional. Status: pending per Redfin + 4salestlouis, 10/26; long-running pending, possibly stale.",
+      "price": 360000,
+      "source": "Redfin (pending filter)",
+      "sqft": 1614,
+      "status": "pending",
+      "stories": "1 story",
+      "unverified": "Pending since 2025 listing; possibly stale",
+      "url": "https://www.redfin.com/MO/Saint-Louis/12-Morwood-Ln-63141/home/93463374",
+      "yearBuilt": 1958,
+      "id": "12-morwood-ln"
     },
     {
       "address": "12305 Wildlife Trl, Creve Coeur, 63141",
