@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T14:58Z",
+  "updated": "2026-10-26T15:01Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -199,12 +199,12 @@
       "lat": 38.6762372,
       "lng": -90.3641514,
       "lot": 0.15,
-      "note": "Coming Soon 10/20, MLS 26067204 (Magnolia Real Estate); 1946 2bd/1ba ranch pitched to investors/renovators, unfinished basement; teardown/rehab candidate on 0.15 ac. Status: coming soon per RedKey alert 10/20 + Redfin + estately, 10/20 (Realtor.com 429).",
+      "note": "Coming Soon 10/20, MLS 26067204 (Magnolia Real Estate); 1946 2bd/1ba ranch pitched to investors/renovators, unfinished basement; teardown/rehab candidate on 0.15 ac. Went under contract ~10/24. Status: pending per 4salestlouis + BHHS Select, 10/26 (Realtor.com 429).",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/204/26067204_0.jpg",
       "price": 175000,
       "source": "RedKey alert (Green & Bank) + Redfin",
       "sqft": 1162,
-      "status": "active",
+      "status": "pending",
       "stories": "1 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/1156-Hilltop-Dr-63132/home/93449142",
       "yearBuilt": 1946,
