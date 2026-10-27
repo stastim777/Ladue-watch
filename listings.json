@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T19:58Z",
+  "updated": "2026-10-27T15:01Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -72,7 +72,7 @@
       "lat": 38.6348082,
       "lng": -90.400628,
       "lot": 0.57,
-      "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Prior listing ($1.7M→$1.6M) canceled 8/31; relisted Coming Soon 10/2 at $1.5M (MLS 26063599), active 10/7, pending 10/9. Status: pending per Redfin + 4salestlouis, 10/10 (Realtor.com 429).",
+      "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Prior listing ($1.7M\u2192$1.6M) canceled 8/31; relisted Coming Soon 10/2 at $1.5M (MLS 26063599), active 10/7, pending 10/9. Status: pending per Redfin + 4salestlouis, 10/10 (Realtor.com 429).",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/329/26035329_0.jpg",
       "prevPrice": 1600000,
       "price": 1500000,
@@ -135,13 +135,13 @@
       "lat": 38.6632466,
       "lng": -90.379084,
       "lot": 1.46,
-      "note": "Listed 8/21 at $1.8M, cut to $1.775M 9/9, $1.625M 9/29 and $1.55M 10/12; MLS 26053254. Cul-de-sac, in-ground pool, screened porch, solar (2023), new roof 2023. 3 full + 2 half baths. Status: active per RedKey alert + Redfin + Estately, 10/12 (Realtor.com 429).",
+      "note": "Listed 8/21 at $1.8M, cut to $1.775M 9/9, $1.625M 9/29 and $1.55M 10/12; MLS 26053254. Cul-de-sac, in-ground pool, screened porch, solar (2023), new roof 2023. 3 full + 2 half baths. Status: pending per 4salestlouis + Blondin RE (MARIS), 10/27; dropped off Redfin active list (Realtor.com 429).",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/254/26053254_1.jpg",
       "prevPrice": 1625000,
       "price": 1550000,
       "source": "Redfin",
       "sqft": 5133,
-      "status": "active",
+      "status": "pending",
       "stories": "1.5 story, all bedrooms upstairs",
       "url": "https://www.redfin.com/MO/Saint-Louis/11-High-Acres-Dr-63132/home/93461426",
       "yearBuilt": 1954,
