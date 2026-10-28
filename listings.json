@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T15:01Z",
+  "updated": "2026-10-28T19:59Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -7,6 +7,7 @@
       "beds": 5,
       "bucket": "movein",
       "firstSeen": "2026-10-02",
+      "id": "1-crabapple-ct",
       "lat": 38.6721414,
       "lng": -90.3828179,
       "lot": 0.4,
@@ -16,8 +17,7 @@
       "sqft": 5035,
       "status": "active",
       "stories": "2 story, main-floor primary",
-      "url": "https://www.redfin.com/MO/Saint-Louis/1-Crabapple-Ct-63132/home/93462114",
-      "id": "1-crabapple-ct"
+      "url": "https://www.redfin.com/MO/Saint-Louis/1-Crabapple-Ct-63132/home/93462114"
     },
     {
       "address": "10 Queensbrook Pl, 63132",
@@ -26,6 +26,7 @@
       "bucket": "distressed",
       "elementary": "Spoede",
       "firstSeen": "2026-10-18",
+      "id": "10-queensbrook-pl",
       "lat": 38.6749129,
       "lng": -90.3929547,
       "lot": 0.29,
@@ -37,8 +38,7 @@
       "status": "pending",
       "stories": "1 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/10-Queensbrook-Pl-63132/home/62735766",
-      "yearBuilt": 1958,
-      "id": "10-queensbrook-pl"
+      "yearBuilt": 1958
     },
     {
       "address": "10 Vouga Ln, 63131",
@@ -47,6 +47,7 @@
       "bucket": "movein",
       "elementary": "Spoede",
       "firstSeen": "2026-10-17",
+      "id": "10-vouga-ln",
       "lat": 38.6438413,
       "lng": -90.4241356,
       "lot": 1.04,
@@ -59,8 +60,7 @@
       "stories": "1 story ranch (MARIS); Redfin lists 2 levels, 1 main-floor bedroom",
       "unverified": "stories/layout",
       "url": "https://www.redfin.com/MO/Saint-Louis/10-Vouga-Ln-63131/home/93481093",
-      "yearBuilt": 1959,
-      "id": "10-vouga-ln"
+      "yearBuilt": 1959
     },
     {
       "address": "10147 Fieldcrest Ln, 63124",
@@ -69,10 +69,11 @@
       "bucket": "movein",
       "elementary": "Conway",
       "firstSeen": "2026-10-04",
+      "id": "10147-fieldcrest-ln",
       "lat": 38.6348082,
       "lng": -90.400628,
       "lot": 0.57,
-      "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Prior listing ($1.7M\u2192$1.6M) canceled 8/31; relisted Coming Soon 10/2 at $1.5M (MLS 26063599), active 10/7, pending 10/9. Status: pending per Redfin + 4salestlouis, 10/10 (Realtor.com 429).",
+      "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Prior listing ($1.7M→$1.6M) canceled 8/31; relisted Coming Soon 10/2 at $1.5M (MLS 26063599), active 10/7, pending 10/9. Status: pending per Redfin + 4salestlouis, 10/10 (Realtor.com 429).",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/329/26035329_0.jpg",
       "prevPrice": 1600000,
       "price": 1500000,
@@ -81,8 +82,7 @@
       "status": "pending",
       "stories": "1 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/10147-Fieldcrest-Ln-63124/home/93491186",
-      "yearBuilt": 2018,
-      "id": "10147-fieldcrest-ln"
+      "yearBuilt": 2018
     },
     {
       "address": "10446 Anzeiger Ave, 63131",
@@ -92,6 +92,7 @@
       "elementary": "Conway",
       "firstSeen": "2026-10-18",
       "hidden": "2 story, all bedrooms upstairs (0 main-level beds); lot 0.11 ac (Redfin, 10/18)",
+      "id": "10446-anzeiger-ave",
       "lat": 38.6461577,
       "lng": -90.4090239,
       "lot": 0.11,
@@ -103,8 +104,7 @@
       "status": "active",
       "stories": "2 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/10446-Anzeiger-Ave-63131/home/169055987",
-      "yearBuilt": 2019,
-      "id": "10446-anzeiger-ave"
+      "yearBuilt": 2019
     },
     {
       "address": "10450 Anzeiger Ave, 63131",
@@ -114,6 +114,7 @@
       "elementary": "Conway",
       "firstSeen": "2026-10-08",
       "hidden": "2 story, all bedrooms upstairs; lot 0.11 ac (Redfin, 10/8)",
+      "id": "10450-anzeiger-ave",
       "lot": 0.11,
       "note": "Listed 10/6, MLS 26054588.",
       "price": 1175000,
@@ -122,8 +123,7 @@
       "status": "active",
       "stories": "2 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/10450-Anzeiger-Ave-63131/home/169055986",
-      "yearBuilt": 2019,
-      "id": "10450-anzeiger-ave"
+      "yearBuilt": 2019
     },
     {
       "address": "11 High Acres Dr, 63132",
@@ -132,6 +132,7 @@
       "bucket": "movein",
       "elementary": "Old Bonhomme",
       "firstSeen": "2026-10-08",
+      "id": "11-high-acres-dr",
       "lat": 38.6632466,
       "lng": -90.379084,
       "lot": 1.46,
@@ -144,8 +145,7 @@
       "status": "pending",
       "stories": "1.5 story, all bedrooms upstairs",
       "url": "https://www.redfin.com/MO/Saint-Louis/11-High-Acres-Dr-63132/home/93461426",
-      "yearBuilt": 1954,
-      "id": "11-high-acres-dr"
+      "yearBuilt": 1954
     },
     {
       "address": "11 Rolling Rock Ln, 63124",
@@ -154,6 +154,7 @@
       "bucket": "movein",
       "elementary": "Reed",
       "firstSeen": "2026-10-09",
+      "id": "11-rolling-rock-ln",
       "lat": 38.6291571,
       "lng": -90.3747987,
       "lot": 1.8,
@@ -165,8 +166,7 @@
       "status": "pending",
       "stories": "1 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/11-Rolling-Rock-Ln-63124/home/62755322",
-      "yearBuilt": 1963,
-      "id": "11-rolling-rock-ln"
+      "yearBuilt": 1963
     },
     {
       "address": "1136 Ridgelynn Dr, 63124",
@@ -175,6 +175,7 @@
       "bucket": "movein",
       "elementary": "Conway",
       "firstSeen": "2026-10-15",
+      "id": "1136-ridgelynn-dr",
       "lat": 38.6387333,
       "lng": -90.4029836,
       "lot": 0.69,
@@ -186,8 +187,7 @@
       "status": "pending",
       "stories": "1 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/1136-Ridgelynn-Dr-63124/home/93480151",
-      "yearBuilt": 1958,
-      "id": "1136-ridgelynn-dr"
+      "yearBuilt": 1958
     },
     {
       "address": "1152 Indian Meadows Dr, 63132",
@@ -196,6 +196,7 @@
       "bucket": "land",
       "elementary": "Old Bonhomme",
       "firstSeen": "2026-10-26",
+      "id": "1152-indian-meadows-dr",
       "lat": 38.6763748,
       "lng": -90.3842343,
       "lot": 0.41,
@@ -207,8 +208,7 @@
       "status": "pending",
       "stories": "1 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/1152-Indian-Meadows-Dr-63132/home/62723287",
-      "yearBuilt": 1957,
-      "id": "1152-indian-meadows-dr"
+      "yearBuilt": 1957
     },
     {
       "address": "1156 Hilltop Dr, Olivette, MO 63132",
@@ -217,6 +217,7 @@
       "bucket": "land",
       "elementary": "Reed",
       "firstSeen": "2026-10-20",
+      "id": "1156-hilltop-dr",
       "lat": 38.6762372,
       "lng": -90.3641514,
       "lot": 0.15,
@@ -228,8 +229,7 @@
       "status": "pending",
       "stories": "1 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/1156-Hilltop-Dr-63132/home/93449142",
-      "yearBuilt": 1946,
-      "id": "1156-hilltop-dr"
+      "yearBuilt": 1946
     },
     {
       "address": "12 Morwood Ln, 63141",
@@ -238,6 +238,7 @@
       "bucket": "land",
       "elementary": "Spoede",
       "firstSeen": "2026-10-26",
+      "id": "12-morwood-ln",
       "lat": 38.6655384,
       "lng": -90.4272661,
       "lot": 0.35,
@@ -249,8 +250,7 @@
       "stories": "1 story",
       "unverified": "Pending since 2025 listing; possibly stale",
       "url": "https://www.redfin.com/MO/Saint-Louis/12-Morwood-Ln-63141/home/93463374",
-      "yearBuilt": 1958,
-      "id": "12-morwood-ln"
+      "yearBuilt": 1958
     },
     {
       "address": "12305 Wildlife Trl, Creve Coeur, 63141",
@@ -260,6 +260,7 @@
       "elementary": "Reed",
       "firstSeen": "2026-10-17",
       "hidden": "2 story, primary + 4 beds and laundry upstairs, 1 guest bed on main (Redfin, 10/17)",
+      "id": "12305-wildlife-trl",
       "note": "Fischer Homes new build (Pearson plan), Deer Hollow, $183/mo HOA; on/off market since 5/28, relisted 10/15 as MLS 26066227. Status: active per Redfin + 4salestlouis + estately, 10/17 (Realtor.com 429).",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/227/26066227_0.jpg",
       "price": 1489900,
@@ -269,8 +270,7 @@
       "stories": "2 story",
       "unverified": "lot size unverified",
       "url": "https://www.redfin.com/MO/Creve-Coeur/12305-Wildlife-TRL-63141/home/202054111",
-      "yearBuilt": 2026,
-      "id": "12305-wildlife-trl"
+      "yearBuilt": 2026
     },
     {
       "address": "12315 Wildlife Trl, Creve Coeur, 63141",
@@ -280,6 +280,7 @@
       "elementary": "Reed",
       "firstSeen": "2026-10-17",
       "hidden": "2 story, all 4 bedrooms upstairs (Redfin, 10/17)",
+      "id": "12315-wildlife-trl",
       "note": "Fischer Homes new build (Rhodes plan), Deer Hollow, $183/mo HOA; relisted 10/15 as MLS 26066223. Status: active per Redfin + 4salestlouis + estately, 10/17 (Realtor.com 429).",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/223/26066223_0.jpg",
       "price": 1398900,
@@ -289,8 +290,7 @@
       "stories": "2 story",
       "unverified": "lot size unverified",
       "url": "https://www.redfin.com/MO/Creve-Coeur/12315-Wildlife-TRL-63141/home/202054114",
-      "yearBuilt": 2026,
-      "id": "12315-wildlife-trl"
+      "yearBuilt": 2026
     },
     {
       "address": "13 Deer Creek Woods, 63124",
@@ -300,6 +300,7 @@
       "elementary": "Reed",
       "firstSeen": "2026-10-08",
       "hidden": "2 story, all bedrooms upstairs (Redfin, 10/8)",
+      "id": "13-deer-creek-woods",
       "lat": 38.6249318,
       "lng": -90.3647986,
       "lot": 0.35,
@@ -311,13 +312,13 @@
       "status": "active",
       "stories": "2 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/13-Deer-Creek-Woods-63124/home/93490145",
-      "yearBuilt": 1956,
-      "id": "13-deer-creek-woods"
+      "yearBuilt": 1956
     },
     {
       "address": "17 Bon Price Ter, 63132",
       "bucket": "land",
       "firstSeen": "2026-10-02",
+      "id": "17-bon-price-ter",
       "lat": 38.668991,
       "lng": -90.362065,
       "lot": 0.29,
@@ -326,8 +327,7 @@
       "price": 249900,
       "source": "Redfin",
       "status": "active",
-      "url": "https://www.redfin.com/MO/Saint-Louis/17-Bon-Price-Ter-63132/home/144667345",
-      "id": "17-bon-price-ter"
+      "url": "https://www.redfin.com/MO/Saint-Louis/17-Bon-Price-Ter-63132/home/144667345"
     },
     {
       "address": "18 Overbrook Dr, 63124",
@@ -336,6 +336,7 @@
       "bucket": "movein",
       "elementary": "Reed",
       "firstSeen": "2026-10-08",
+      "id": "18-overbrook-dr",
       "lat": 38.6174455,
       "lng": -90.3721505,
       "lot": 2.35,
@@ -347,8 +348,7 @@
       "status": "active",
       "stories": "1.5 story, main-floor primary",
       "url": "https://www.redfin.com/MO/Saint-Louis/18-Overbrook-Dr-63124/home/93500622",
-      "yearBuilt": 1993,
-      "id": "18-overbrook-dr"
+      "yearBuilt": 1993
     },
     {
       "address": "2 Woodoaks Trl, 63124",
@@ -358,6 +358,7 @@
       "elementary": "Conway",
       "firstSeen": "2026-10-02",
       "hidden": "2 story, all bedrooms upstairs (Redfin, 10/3)",
+      "id": "2-woodoaks-trl",
       "lat": 38.6327332,
       "lng": -90.4023395,
       "lot": 0.8,
@@ -370,8 +371,7 @@
       "status": "active",
       "stories": "2 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/2-Woodoaks-Trl-63124/home/93491161",
-      "yearBuilt": 1962,
-      "id": "2-woodoaks-trl"
+      "yearBuilt": 1962
     },
     {
       "address": "20 Daniel Rd, 63124",
@@ -380,6 +380,7 @@
       "bucket": "movein",
       "elementary": "Reed",
       "firstSeen": "2026-10-08",
+      "id": "20-daniel-rd",
       "lat": 38.6234277,
       "lng": -90.3728917,
       "lot": 0.35,
@@ -391,8 +392,7 @@
       "status": "active",
       "stories": "1 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/20-Daniel-Rd-63124/home/93631150",
-      "yearBuilt": 2003,
-      "id": "20-daniel-rd"
+      "yearBuilt": 2003
     },
     {
       "address": "22 Oak Bend Ct, 63124",
@@ -400,6 +400,7 @@
       "beds": 4,
       "bucket": "asis",
       "firstSeen": "2026-10-02",
+      "id": "22-oak-bend-ct",
       "lot": 0.43,
       "note": "Sold 8/31/2026 for $780K per Houzeo; Circa shows Under Contract (10/3). Was sold as-is.",
       "price": 750000,
@@ -408,8 +409,7 @@
       "status": "sold",
       "stories": "2 story",
       "url": "https://katietaylor.circastl.com/mo-real-estate/st-louis/22-oak-bend-court-mls-26032712",
-      "yearBuilt": 1939,
-      "id": "22-oak-bend-ct"
+      "yearBuilt": 1939
     },
     {
       "address": "2217 Croydon Walk, 63131",
@@ -418,6 +418,7 @@
       "bucket": "movein",
       "firstSeen": "2026-10-02",
       "hidden": "Condo, not single-family (Stas: no condos, 10/3)",
+      "id": "2217-croydon-walk",
       "lat": 38.6226683,
       "lng": -90.4331087,
       "lot": 0.35,
@@ -430,8 +431,7 @@
       "status": "active",
       "stories": "1 story",
       "unverified": "Condo in The Willows ($1,035/mo HOA), not single-family",
-      "url": "https://www.redfin.com/MO/Saint-Louis/2217-Croydon-Walk-63131/home/93490916",
-      "id": "2217-croydon-walk"
+      "url": "https://www.redfin.com/MO/Saint-Louis/2217-Croydon-Walk-63131/home/93490916"
     },
     {
       "address": "2217 Divot Dr, 63131",
@@ -440,6 +440,7 @@
       "bucket": "land",
       "elementary": "Conway",
       "firstSeen": "2026-10-08",
+      "id": "2217-divot-dr",
       "lat": 38.6219804,
       "lng": -90.4302495,
       "lot": 0.23,
@@ -451,8 +452,7 @@
       "status": "pending",
       "stories": "1 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/2217-Divot-Dr-63131/home/93490769",
-      "yearBuilt": 1954,
-      "id": "2217-divot-dr"
+      "yearBuilt": 1954
     },
     {
       "address": "233 Brooktrail Ct, Creve Coeur, MO 63141",
@@ -462,6 +462,7 @@
       "elementary": "Spoede",
       "firstSeen": "2026-10-08",
       "hidden": "2 story, all 4 bedrooms upstairs (Redfin, 10/8)",
+      "id": "233-brooktrail-ct",
       "lat": 38.6506278,
       "lng": -90.4222022,
       "lot": 0.58,
@@ -473,8 +474,7 @@
       "status": "pending",
       "stories": "2 story, all bedrooms upstairs",
       "url": "https://www.redfin.com/MO/Saint-Louis/233-Brooktrail-Ct-63141/home/93472874",
-      "yearBuilt": 1974,
-      "id": "233-brooktrail-ct"
+      "yearBuilt": 1974
     },
     {
       "address": "25 Berkshire Dr, 63117",
@@ -484,6 +484,7 @@
       "elementary": "Reed",
       "firstSeen": "2026-10-03",
       "hidden": "2 story, all bedrooms upstairs (Redfin, 10/3)",
+      "id": "25-berkshire-dr",
       "lat": 38.6342457,
       "lng": -90.3524233,
       "lot": 0.6,
@@ -495,8 +496,27 @@
       "status": "active",
       "stories": "2 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/25-Berkshire-Dr-63117/home/93489700",
-      "yearBuilt": 1952,
-      "id": "25-berkshire-dr"
+      "yearBuilt": 1952
+    },
+    {
+      "address": "27 Ellsworth Ln, 63124",
+      "baths": 2.5,
+      "beds": 4,
+      "bucket": "movein",
+      "elementary": "Reed",
+      "firstSeen": "2026-10-28",
+      "id": "27-ellsworth-ln",
+      "lot": 0.51,
+      "note": "MLS 26047071 (Worth Clark Realty), listed 7/29 at $1.295M, cut to $1.249M 8/13; 1940 1.5-story in Ladue (Joseph Harding Estate, $750/yr HOA), main-floor primary + laundry, 3 beds up, saltwater pool. Not on Redfin's district list. Status: pending per 4salestlouis + BHHS Select, 10/28 (Realtor.com not checked).",
+      "prevPrice": 1295000,
+      "price": 1249000,
+      "source": "BHHS Select / 4salestlouis",
+      "sqft": 3398,
+      "status": "pending",
+      "stories": "1.5 story, main-floor primary",
+      "unverified": "no Redfin page/map data",
+      "url": "https://bhhsselectstl.com/mo-real-estate/ladue/27-ellsworth-lane-mls-26047071",
+      "yearBuilt": 1940
     },
     {
       "address": "4 Colonial Hills Pkwy, 63141",
@@ -505,6 +525,7 @@
       "bucket": "movein",
       "elementary": "Spoede",
       "firstSeen": "2026-10-03",
+      "id": "4-colonial-hills-pkwy",
       "lat": 38.6683446,
       "lng": -90.415574,
       "lot": 0.47,
@@ -516,8 +537,7 @@
       "status": "pending",
       "stories": "2 story, main-floor primary",
       "url": "https://www.redfin.com/MO/Saint-Louis/4-Colonial-Hills-Pkwy-63141/home/93323636",
-      "yearBuilt": 2006,
-      "id": "4-colonial-hills-pkwy"
+      "yearBuilt": 2006
     },
     {
       "address": "4 Litzsinger Ln, 63124",
@@ -527,6 +547,7 @@
       "elementary": "Reed",
       "firstSeen": "2026-10-12",
       "hidden": "2 story, all 4 bedrooms upstairs (Redfin, 10/12)",
+      "id": "4-litzsinger-ln",
       "lat": 38.6208328,
       "lng": -90.370146,
       "lot": 1.15,
@@ -538,8 +559,7 @@
       "status": "active",
       "stories": "2 story, all bedrooms upstairs",
       "url": "https://www.redfin.com/MO/Saint-Louis/4-Litzsinger-Ln-63124/home/62703912",
-      "yearBuilt": 1924,
-      "id": "4-litzsinger-ln"
+      "yearBuilt": 1924
     },
     {
       "address": "5 Outer Ladue Dr, 63131",
@@ -548,6 +568,7 @@
       "bucket": "movein",
       "elementary": "Conway",
       "firstSeen": "2026-10-08",
+      "id": "5-outer-ladue-dr",
       "lat": 38.6251603,
       "lng": -90.4177833,
       "lot": 0.92,
@@ -559,8 +580,7 @@
       "status": "pending",
       "stories": "1 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/5-Outer-Ladue-Dr-63131/home/93491134",
-      "yearBuilt": 1994,
-      "id": "5-outer-ladue-dr"
+      "yearBuilt": 1994
     },
     {
       "address": "545 Long Acres Ln, 63132",
@@ -569,6 +589,7 @@
       "bucket": "movein",
       "elementary": "Old Bonhomme",
       "firstSeen": "2026-10-03",
+      "id": "545-long-acres-ln",
       "lat": 38.667031,
       "lng": -90.376953,
       "lot": 0.34,
@@ -582,8 +603,7 @@
       "stories": "1 story",
       "unverified": "2 full + 1 half bath (borderline 3-bath rule)",
       "url": "https://www.redfin.com/MO/Saint-Louis/545-Long-Acres-Dr-63132/home/175643461",
-      "yearBuilt": 2022,
-      "id": "545-long-acres-ln"
+      "yearBuilt": 2022
     },
     {
       "address": "6 Berkshire Dr, 63117",
@@ -593,6 +613,7 @@
       "elementary": "Reed",
       "firstSeen": "2026-10-02",
       "hidden": "2 story, all bedrooms upstairs (Redfin, 10/3)",
+      "id": "6-berkshire-dr",
       "lat": 38.6361952,
       "lng": -90.3532726,
       "lot": 0.82,
@@ -604,8 +625,7 @@
       "status": "sold",
       "stories": "2 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/6-Berkshire-Dr-63117/home/93479197",
-      "yearBuilt": 1940,
-      "id": "6-berkshire-dr"
+      "yearBuilt": 1940
     },
     {
       "address": "8 Granada Way, 63124",
@@ -615,6 +635,7 @@
       "elementary": "Reed",
       "firstSeen": "2026-10-02",
       "hidden": "2 story, all bedrooms upstairs (Redfin, 10/3)",
+      "id": "8-granada-way",
       "lat": 38.6562094,
       "lng": -90.3703851,
       "lot": 0.36,
@@ -627,8 +648,7 @@
       "status": "pending",
       "stories": "2 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/8-Granada-Way-63124/home/93471787",
-      "yearBuilt": 1940,
-      "id": "8-granada-way"
+      "yearBuilt": 1940
     },
     {
       "address": "817 Larkin Ave, 63141",
@@ -637,6 +657,7 @@
       "bucket": "movein",
       "firstSeen": "2026-10-02",
       "hidden": "Excluded street: Larkin Ave (Stas, 10/3)",
+      "id": "817-larkin-ave",
       "lat": 38.6707158,
       "lng": -90.4166786,
       "lot": 0.42,
@@ -647,8 +668,7 @@
       "status": "active",
       "stories": "1.5 story (likely)",
       "unverified": "Stories unverified",
-      "url": "https://www.redfin.com/MO/Saint-Louis/817-Larkin-Ave-63141/home/93464127",
-      "id": "817-larkin-ave"
+      "url": "https://www.redfin.com/MO/Saint-Louis/817-Larkin-Ave-63141/home/93464127"
     },
     {
       "address": "821 N Spoede Rd, Saint Louis, MO 63141",
@@ -657,6 +677,7 @@
       "bucket": "movein",
       "elementary": "Spoede",
       "firstSeen": "2026-10-06",
+      "id": "821-n-spoede-rd",
       "lat": 38.6707202,
       "lng": -90.4154267,
       "lot": 0.5,
@@ -668,8 +689,7 @@
       "status": "active",
       "stories": "1.5 story, main-floor primary",
       "url": "https://www.redfin.com/MO/Creve-Coeur/821-N-Spoede-Rd-63141/home/93463810",
-      "yearBuilt": 2002,
-      "id": "821-n-spoede-rd"
+      "yearBuilt": 2002
     },
     {
       "address": "832 Larkin Ave, 63141",
@@ -678,6 +698,7 @@
       "bucket": "movein",
       "firstSeen": "2026-10-02",
       "hidden": "Excluded street: Larkin Ave (Stas, 10/3)",
+      "id": "832-larkin-ave",
       "lat": 38.6713525,
       "lng": -90.4161079,
       "lot": 0.5,
@@ -689,8 +710,7 @@
       "status": "active",
       "stories": "1.5 story",
       "unverified": "Old 2024 MLS #; confirm active",
-      "url": "https://www.redfin.com/MO/Saint-Louis/832-Larkin-Ave-63141/home/93463826",
-      "id": "832-larkin-ave"
+      "url": "https://www.redfin.com/MO/Saint-Louis/832-Larkin-Ave-63141/home/93463826"
     },
     {
       "address": "9046 Old Bonhomme Rd, 63132",
@@ -699,6 +719,7 @@
       "bucket": "land",
       "elementary": "Old Bonhomme",
       "firstSeen": "2026-10-08",
+      "id": "9046-old-bonhomme-rd",
       "lat": 38.6668147,
       "lng": -90.3645195,
       "lot": 0.18,
@@ -710,8 +731,7 @@
       "status": "pending",
       "stories": "split-level",
       "url": "https://www.redfin.com/MO/Saint-Louis/9046-Old-Bonhomme-Rd-63132/home/93461819",
-      "yearBuilt": 1959,
-      "id": "9046-old-bonhomme-rd"
+      "yearBuilt": 1959
     },
     {
       "address": "9321 Old Bonhomme Rd, 63132",
@@ -720,6 +740,7 @@
       "bucket": "movein",
       "elementary": "Old Bonhomme",
       "firstSeen": "2026-10-02",
+      "id": "9321-old-bonhomme-rd",
       "lat": 38.6656434,
       "lng": -90.3723527,
       "lot": 0.63,
@@ -732,8 +753,7 @@
       "status": "sold",
       "stories": "1.5 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/9321-Old-Bonhomme-Rd-63132/home/62755677",
-      "yearBuilt": 1840,
-      "id": "9321-old-bonhomme-rd"
+      "yearBuilt": 1840
     },
     {
       "address": "9553 Park Ln",
@@ -741,6 +761,7 @@
       "beds": 4,
       "bucket": "asis",
       "firstSeen": "2026-10-02",
+      "id": "9553-park-ln",
       "lot": 0.35,
       "note": "Sold per realtor.com (Stas confirmed 10/2). Coldwell Banker page was stale.",
       "price": 539000,
@@ -749,8 +770,7 @@
       "status": "sold",
       "stories": "2 story",
       "url": "https://www.coldwellbankerhomes.com/mo/ladue/9553-park-ln/pid_69898331",
-      "yearBuilt": 1950,
-      "id": "9553-park-ln"
+      "yearBuilt": 1950
     },
     {
       "address": "9662 Mesa Dr, 63132",
@@ -759,6 +779,7 @@
       "bucket": "land",
       "elementary": "Spoede",
       "firstSeen": "2026-10-08",
+      "id": "9662-mesa-dr",
       "lat": 38.6817281,
       "lng": -90.3873984,
       "lot": 0.46,
@@ -771,8 +792,7 @@
       "stories": "1 story",
       "unverified": "Single source (Zillow); not yet on Redfin/MARIS",
       "url": "https://www.zillow.com/homedetails/2725571_zpid/",
-      "yearBuilt": 1961,
-      "id": "9662-mesa-dr"
+      "yearBuilt": 1961
     }
   ]
 }
