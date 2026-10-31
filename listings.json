@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T19:59Z",
+  "updated": "2026-10-31T14:57Z",
   "listings": [
     {
       "address": "1 Crabapple Ct, 63132",
@@ -72,7 +72,7 @@
       "lat": 38.6348082,
       "lng": -90.400628,
       "lot": 0.57,
-      "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Prior listing ($1.7M\u2192$1.6M) canceled 8/31; relisted Coming Soon 10/2 at $1.5M (MLS 26063599), active 10/7, pending 10/9. Status: pending per Redfin + 4salestlouis, 10/10 (Realtor.com 429).",
+      "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Prior listing ($1.7M→$1.6M) canceled 8/31; relisted Coming Soon 10/2 at $1.5M (MLS 26063599), active 10/7, pending 10/9. Status: pending per Redfin + 4salestlouis, 10/10 (Realtor.com 429).",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/329/26035329_0.jpg",
       "prevPrice": 1600000,
       "price": 1500000,
@@ -97,14 +97,15 @@
       "lot": 0.11,
       "note": "Coming Soon 10/18, MLS 26067030 (Reid Group); next door to 10450 Anzeiger. Status: coming soon per Zillow alert 10/18 + Redfin + estately, 10/18.",
       "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/030/26067030_0.jpg",
-      "price": 1175000,
+      "price": 1095000,
       "source": "Zillow alert",
       "sqft": 3783,
       "status": "active",
       "stories": "2 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/10446-Anzeiger-Ave-63131/home/169055987",
       "yearBuilt": 2019,
-      "id": "10446-anzeiger-ave"
+      "id": "10446-anzeiger-ave",
+      "prevPrice": 1175000
     },
     {
       "address": "10450 Anzeiger Ave, 63131",
@@ -199,12 +200,12 @@
       "lat": 38.6763748,
       "lng": -90.3842343,
       "lot": 0.41,
-      "note": "MLS 26043329, 67 DOM; 1957 brick ranch on 0.41-ac corner lot in Olivette (Indian Meadows 1), hardwoods, partly finished LL, $75/yr subdivision fee; priced near land value. Status: pending per Redfin + 4salestlouis + elsrealestategroup.com, 10/26 (Realtor.com not checked).",
+      "note": "MLS 26043329; 1957 brick ranch on 0.41-ac corner lot in Olivette (Indian Meadows 1), priced near land value. Sold for $375,000. Status: closed per 4salestlouis + BHHS Select (MARIS), 10/31 (Realtor.com 429).",
       "photo": "https://ssl.cdn-redfin.com/photo/156/islphoto/329/genIslnoResize.26043329_1.webp",
       "price": 380000,
       "source": "Redfin (pending filter)",
       "sqft": 1458,
-      "status": "pending",
+      "status": "sold",
       "stories": "1 story",
       "url": "https://www.redfin.com/MO/Saint-Louis/1152-Indian-Meadows-Dr-63132/home/62723287",
       "yearBuilt": 1957,
