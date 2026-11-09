@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T12:21Z",
+ "updated": "2026-11-09T20:57Z",
  "listings": [
   {
    "address": "1 Crabapple Ct, 63132",
@@ -72,7 +72,7 @@
    "lat": 38.6348082,
    "lng": -90.400628,
    "lot": 0.57,
-   "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Prior listing ($1.7M\u2192$1.6M) canceled 8/31; relisted Coming Soon 10/2 at $1.5M (MLS 26063599), active 10/7, pending 10/9. Status: pending per Redfin + 4salestlouis, 10/10 (Realtor.com 429).",
+   "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Prior listing ($1.7M→$1.6M) canceled 8/31; relisted Coming Soon 10/2 at $1.5M (MLS 26063599), active 10/7, pending 10/9. Status: pending per Redfin + 4salestlouis, 10/10 (Realtor.com 429).",
    "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/329/26035329_0.jpg",
    "prevPrice": 1600000,
    "price": 1500000,
@@ -574,12 +574,12 @@
    "lat": 38.6251603,
    "lng": -90.4177833,
    "lot": 0.92,
-   "note": "Coming Soon 10/7, MLS 26055658, Janet McAfee; Frontenac cul-de-sac, flat lot, main-floor primary, 10-ft ceilings, 3-car garage, $42/mo subdivision HOA. Status: pending per Redfin + 4salestlouis, 10/20 (Realtor.com 429).",
+   "note": "Coming Soon 10/7, MLS 26055658, Janet McAfee; Frontenac cul-de-sac, flat lot, main-floor primary, 10-ft ceilings, 3-car garage, $42/mo subdivision HOA. Sold 11/9/2026 for $1,850,000 (list $1,499,000). Status: sold per 4salestlouis + BHHS Select, 11/9 (Realtor.com 429).",
    "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/658/26055658_0.jpg",
    "price": 1499000,
    "source": "Redfin",
    "sqft": 5657,
-   "status": "pending",
+   "status": "sold",
    "stories": "1 story",
    "url": "https://www.redfin.com/MO/Saint-Louis/5-Outer-Ladue-Dr-63131/home/93491134",
    "yearBuilt": 1994,
