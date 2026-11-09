@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:58Z",
+ "updated": "2026-11-09T12:21Z",
  "listings": [
   {
    "address": "1 Crabapple Ct, 63132",
@@ -506,6 +506,8 @@
    "bucket": "movein",
    "elementary": "Reed",
    "firstSeen": "2026-10-28",
+   "lat": 38.626485,
+   "lng": -90.368649,
    "lot": 0.51,
    "note": "MLS 26047071 (Worth Clark Realty), listed 7/29 at $1.295M, cut to $1.249M 8/13; 1940 1.5-story in Ladue (Joseph Harding Estate, $750/yr HOA), main-floor primary + laundry, 3 beds up, saltwater pool. Not on Redfin's district list. Status: pending per 4salestlouis + BHHS Select, 10/28 (Realtor.com not checked).",
    "prevPrice": 1295000,
