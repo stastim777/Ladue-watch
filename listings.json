@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:59Z",
+ "updated": "2026-11-10T20:57Z",
  "listings": [
   {
    "address": "1 Crabapple Ct, 63132",
@@ -73,7 +73,7 @@
    "lat": 38.6348082,
    "lng": -90.400628,
    "lot": 0.57,
-   "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Prior listing ($1.7M→$1.6M) canceled 8/31; relisted Coming Soon 10/2 at $1.5M (MLS 26063599), active 10/7, pending 10/9. Status: pending per Redfin + 4salestlouis, 10/10 (Realtor.com 429).",
+   "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Prior listing ($1.7M\u2192$1.6M) canceled 8/31; relisted Coming Soon 10/2 at $1.5M (MLS 26063599), active 10/7, pending 10/9. Status: pending per Redfin + 4salestlouis, 10/10 (Realtor.com 429).",
    "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/329/26035329_0.jpg",
    "prevPrice": 1600000,
    "price": 1500000,
@@ -551,12 +551,12 @@
    "lat": 38.6683446,
    "lng": -90.415574,
    "lot": 0.47,
-   "note": "Listed 9/29 at $1.6M; went under contract 10/4. Main-floor primary, walkout LL, 3-car garage. Status: pending per Compass + BHHS Select, 10/5 (Redfin still shows For Sale; Realtor.com blocked).",
+   "note": "Listed 9/29 at $1.6M; went under contract 10/4. Main-floor primary, walkout LL, 3-car garage. Sold 11/6/2026 for $1,775,000 per 4salestlouis MARIS page (Status CLOSED); no longer on Redfin active/pending lists, 11/10 (Realtor.com 429).",
    "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/992/26055992_0.jpg",
    "price": 1600000,
    "source": "Redfin",
    "sqft": 4743,
-   "status": "pending",
+   "status": "sold",
    "stories": "2 story, main-floor primary",
    "url": "https://www.redfin.com/MO/Saint-Louis/4-Colonial-Hills-Pkwy-63141/home/93323636",
    "yearBuilt": 2006,
