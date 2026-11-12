@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T20:57Z",
+ "updated": "2026-11-12T20:59Z",
  "listings": [
   {
    "address": "1 Crabapple Ct, 63132",
@@ -603,6 +603,24 @@
    "url": "https://www.redfin.com/MO/Saint-Louis/4-Litzsinger-Ln-63124/home/62703912",
    "yearBuilt": 1924,
    "id": "4-litzsinger-ln"
+  },
+  {
+   "address": "40 Burroughs Ln, 63124",
+   "baths": 4.5,
+   "beds": 4,
+   "bucket": "movein",
+   "firstSeen": "2026-11-12",
+   "hidden": "lot 0.21 ac, under 0.25 ac minimum (estately, 11/12)",
+   "lot": 0.21,
+   "note": "Coming Soon, MLS 26070669 (Gladys Manion), $33/mo HOA; end of lane in Ladue, 3 beds upstairs. Status: coming soon per estately + Redfin district page, 11/12 (Realtor.com 429).",
+   "price": 1699000,
+   "source": "Redfin district page",
+   "sqft": 4624,
+   "status": "active",
+   "stories": "2 story, main-floor primary (likely)",
+   "url": "https://www.redfin.com/MO/Saint-Louis/40-Burroughs-Ln-63124/home/62752325",
+   "yearBuilt": 2010,
+   "id": "40-burroughs-ln"
   },
   {
    "address": "5 Outer Ladue Dr, 63131",
