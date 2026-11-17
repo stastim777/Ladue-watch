@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:58Z",
+ "updated": "2026-11-17T20:58Z",
  "listings": [
   {
    "address": "1 Crabapple Ct, 63132",
@@ -73,13 +73,13 @@
    "lat": 38.6348082,
    "lng": -90.400628,
    "lot": 0.57,
-   "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Prior listing ($1.7M\u2192$1.6M) canceled 8/31; relisted Coming Soon 10/2 at $1.5M (MLS 26063599), active 10/7, pending 10/9. Status: pending per Redfin + 4salestlouis, 10/10 (Realtor.com 429).",
+   "note": "2018 ranch, main-floor primary, finished LL; 0.4 mi to Ladue HS. Relisted Coming Soon 10/2 at $1.5M (MLS 26063599), pending 10/9. Sold 11/16/2026 for $1,450,000. Status: sold per 4salestlouis (CLOSED) + Estately, 11/17 (Realtor.com 429).",
    "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/329/26035329_0.jpg",
    "prevPrice": 1600000,
    "price": 1500000,
    "source": "Redfin / Movoto",
    "sqft": 5657,
-   "status": "pending",
+   "status": "sold",
    "stories": "1 story",
    "url": "https://www.redfin.com/MO/Saint-Louis/10147-Fieldcrest-Ln-63124/home/93491186",
    "yearBuilt": 2018,
