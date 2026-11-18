@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:58Z",
+ "updated": "2026-11-18T20:57Z",
  "listings": [
   {
    "address": "1 Crabapple Ct, 63132",
@@ -535,6 +535,24 @@
    "id": "2253-croydon-walk"
   },
   {
+   "address": "23 Midpark Ln, Saint Louis, MO 63124",
+   "baths": 2,
+   "bucket": "movein",
+   "elementary": "Conway",
+   "firstSeen": "2026-11-18",
+   "hidden": "lot ~0.17 ac, under 0.25 ac minimum; to-be-built, no beds listed (Redfin search + web listings, 11/18)",
+   "lat": 38.6367539,
+   "lng": -90.3885759,
+   "lot": 0.17,
+   "note": "To-be-built new construction, MLS 26031512 (Douglas Properties), completion Spring 2027.",
+   "price": 1695000,
+   "source": "Redfin district search",
+   "sqft": 3800,
+   "status": "active",
+   "url": "https://www.redfin.com/MO/Saint-Louis/23-Midpark-Ln-63124/home/93480484",
+   "id": "23-midpark-ln"
+  },
+  {
    "address": "233 Brooktrail Ct, Creve Coeur, MO 63141",
    "baths": 5,
    "beds": 4,
@@ -640,6 +658,25 @@
    "url": "https://www.redfin.com/MO/Saint-Louis/3-Ladue-Ct-63141/home/109672289",
    "yearBuilt": 2016,
    "id": "3-ladue-ct"
+  },
+  {
+   "address": "31 Midpark Ln, Saint Louis, MO 63124",
+   "baths": 4.5,
+   "beds": 5,
+   "bucket": "movein",
+   "elementary": "Conway",
+   "firstSeen": "2026-11-18",
+   "hidden": "lot 0.17 ac, under 0.25 ac minimum (Redfin search + web listings, 11/18)",
+   "lat": 38.6360584,
+   "lng": -90.388624,
+   "lot": 0.17,
+   "note": "New construction, MLS 26002817 (Douglas Properties), listed 1/16/2026. Status: active per Redfin district search 11/18.",
+   "price": 1695000,
+   "source": "Redfin district search",
+   "sqft": 3404,
+   "status": "active",
+   "url": "https://www.redfin.com/MO/Saint-Louis/31-Midpark-Ln-63124/home/93480459",
+   "id": "31-midpark-ln"
   },
   {
    "address": "4 Colonial Hills Pkwy, 63141",
