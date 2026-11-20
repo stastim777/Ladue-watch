@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:58Z",
+ "updated": "2026-11-20T15:56Z",
  "listings": [
   {
    "address": "1 Crabapple Ct, 63132",
@@ -218,12 +218,12 @@
    "lat": 38.6765804,
    "lng": -90.3776677,
    "lot": 0.17,
-   "note": "Coming Soon, MLS 26072191 (Nettwork Global); maintained 1962 brick ranch at end of cul-de-sac, new roof 2026, HVAC 2021, walkout basement, 2-car garage; showings start Mon 11/16. Teardown/rebuild candidate or move-in starter. Status: coming soon per 4salestlouis + Estately + Redfin list, 11/13 (Realtor.com 429).",
+   "note": "MLS 26072191 (Nettwork Global); maintained 1962 brick ranch at end of cul-de-sac, new roof 2026, HVAC 2021, walkout basement, 2-car garage. Teardown/rebuild candidate or move-in starter. Went pending after 4 DOM. Status: pending per 4salestlouis + BHHS Select, 11/20 (Realtor.com blocked; Redfin fetch failed).",
    "photo": "https://ssl.cdn-redfin.com/photo/156/islphoto/191/genIslnoResize.26072191_0.webp",
    "price": 315000,
    "source": "Redfin / 4salestlouis",
    "sqft": 1902,
-   "status": "active",
+   "status": "pending",
    "stories": "1 story (ranch)",
    "url": "https://www.redfin.com/MO/Saint-Louis/1147-Indian-Trails-Dr-63132/home/93448742",
    "yearBuilt": 1962,
