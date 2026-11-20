@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T15:56Z",
+ "updated": "2026-11-20T20:57Z",
  "listings": [
   {
    "address": "1 Crabapple Ct, 63132",
@@ -879,10 +879,10 @@
    "lat": 38.6707202,
    "lng": -90.4154267,
    "lot": 0.5,
-   "note": "Coming Soon 10/6, went live 10/8 at $1,449,000, cut to $1,399,000 10/29; MLS 26060289, RE/MAX Results; main-floor primary suite, 5th bed in finished LL. Fronts N Spoede Rd (through road). Status: active per RedKey price-change alert 10/29 + 4salestlouis MARIS page + Redfin search 10/29.",
+   "note": "Coming Soon 10/6, went live 10/8 at $1,449,000, cut to $1,399,000 10/29 and to $1,375,000 ~11/19; MLS 26060289, RE/MAX Results; main-floor primary suite, 5th bed in finished LL. Fronts N Spoede Rd (through road). Status: active at $1,375,000 per Redfin + Estately + 4salestlouis MARIS page, 11/20 (Realtor.com not checked; Zillow alert still shows $1,399,000).",
    "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/289/26060289_0.jpg",
-   "prevPrice": 1449000,
-   "price": 1399000,
+   "prevPrice": 1399000,
+   "price": 1375000,
    "source": "Zillow alert / Redfin",
    "sqft": 5432,
    "status": "active",
