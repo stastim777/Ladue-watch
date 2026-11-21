@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:57Z",
+ "updated": "2026-11-21T15:56Z",
  "listings": [
   {
    "address": "1 Crabapple Ct, 63132",
@@ -159,12 +159,12 @@
    "lat": 38.6291571,
    "lng": -90.3747987,
    "lot": 1.8,
-   "note": "MLS 26055068; one-owner architect-built brick ranch in Trails End on a level 1.8 ac, all 4 beds on main each with en suite, 3-car garage, no HOA; dated. Coming Soon 10/8, listed 10/16, pending 10/18. Status: pending per Redfin + 4salestlouis, 10/19.",
+   "note": "MLS 26055068; one-owner architect-built brick ranch in Trails End on a level 1.8 ac, all 4 beds on main each with en suite, 3-car garage, no HOA; dated. Listed 10/16 at $1,399,900, pending 10/18, closed 11/20 at $1,525,000 (over list). Status: sold per 4salestlouis MARIS page (CLOSED) + Redfin 63124 recently-sold, 11/21 (Realtor.com 429).",
    "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/068/26055068_0.jpg",
-   "price": 1399900,
+   "price": 1525000,
    "source": "Redfin",
    "sqft": 5797,
-   "status": "pending",
+   "status": "sold",
    "stories": "1 story",
    "url": "https://www.redfin.com/MO/Saint-Louis/11-Rolling-Rock-Ln-63124/home/62755322",
    "yearBuilt": 1963,
