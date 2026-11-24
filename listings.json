@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:58Z",
+ "updated": "2026-11-24T20:57Z",
  "listings": [
   {
    "address": "1 Crabapple Ct, 63132",
@@ -922,12 +922,12 @@
    "lat": 38.6668147,
    "lng": -90.3645195,
    "lot": 0.18,
-   "note": "Listed 9/21 at $400K (MLS 26057762, Coldwell Banker Premier); 1959 brick split-level near Centreton Park, 0.18 ac. Went pending 10/17. Status: pending per Redfin + 4salestlouis, 10/18 (Realtor.com 429).",
+   "note": "Listed 9/21 at $400K (MLS 26057762, Coldwell Banker Premier); 1959 brick split-level near Centreton Park, 0.18 ac. Went pending 10/17; sold 11/23/2026 for $375,000. Status: sold per 4salestlouis + estately, 11/24 (Realtor.com 429).",
    "photo": "https://ssl.cdn-redfin.com/photo/156/bigphoto/762/26057762_0.jpg",
    "price": 400000,
    "source": "Redfin",
    "sqft": 1656,
-   "status": "pending",
+   "status": "sold",
    "stories": "split-level",
    "url": "https://www.redfin.com/MO/Saint-Louis/9046-Old-Bonhomme-Rd-63132/home/93461819",
    "yearBuilt": 1959,
